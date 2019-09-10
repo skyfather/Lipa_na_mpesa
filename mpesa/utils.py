@@ -1,7 +1,6 @@
 import base64
 from datetime import datetime
-from . import keys
-# import keys
+from mpesa import keys
 
 
 def format_date():
