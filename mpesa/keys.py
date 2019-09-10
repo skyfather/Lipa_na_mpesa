@@ -1,0 +1,5 @@
+business_shortcode = "174379"
+phone_number = "254xxxxxx"
+lipa_na_mpesa_passkey = "Your Lipa na Mpesa Pass Key"
+consumer_key = "Your Consumer Key"
+consumer_secret = "Your Consumer Secret"
